@@ -44,13 +44,13 @@ I'm Fernando González a Full Stack Web and Mobile Developer based in New Jersey
 
 <div style="display: flex; justify-content: center;">
   <img alt="Python" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin: 0 10px;" />
+  <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Dart" width="26px" src="https://github.com/github/explore/blob/main/topics/dart/dart.png?raw=true" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="margin: 0 10px;" />
+  <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Django" width="26px" src="https://github.com/github/explore/blob/main/topics/django/django.png?raw=true" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Flutter" width="26px" src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png?raw=true" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="PostgreSQL" width="26px" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png?raw=true" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin: 0 10px;" />
+  <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="CSS" width="26px" src="https://github.com/github/explore/blob/main/topics/css/css.png?raw=true" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Docker" width="26px" src="https://github.com/github/explore/blob/main/topics/docker/docker.png?raw=true" style="margin: 0 10px;" />
 </div>
