@@ -18,9 +18,9 @@ I'm Fernando González a Full Stack Web and Mobile Developer based in New Jersey
 
 <div style="text-align:center;">
 
-  [![Chrome Browser](https://img.shields.io/badge/Browser-nandodev.net-green?style=flat&logo=google-chrome&logoColor=white)](https://nandodev.net)
+  [![Chrome Browser](https://img.shields.io/badge/Browser-nandodev.net-green?style=flat&logo=google-chrome&logoColor=white)](https://nandodev.net)&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="margin: 0 10px;"> </span>
-  [![Linkedin Badge](https://img.shields.io/badge/-FernandoGonzalez-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fgonzalez89/) 
+  [![Linkedin Badge](https://img.shields.io/badge/-FernandoGonzalez-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fgonzalez89/)&nbsp;&nbsp;&nbsp;&nbsp; 
   <span style="margin: 0 10px;"> </span>
     [![Mail Badge](https://img.shields.io/badge/-gonzalez89fer-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gonzalez89fer@gmail.com)
 
