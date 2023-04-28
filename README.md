@@ -7,7 +7,7 @@ I'm Islem Maboud a Full Stack Web and Mobile Developer based in New Jersey. I Sp
 <br/>
 
 <div style="width:100%;height:100px;overflow:hidden;position:relative;">
-  <img src="assets/img/welcome-loopless.gif" alt="description_of_gif" style="width:100%; height:auto; object-fit: cover; position:absolute; top: -20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);">
+  <img src="assets/img/welcome-base.gif" alt="description_of_gif" style="width:100%; height:auto; object-fit: cover; position:absolute;  border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);">
 </div>
 
 
