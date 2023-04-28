@@ -14,9 +14,6 @@ I'm Fernando González :rocket: a Full Stack Web and Mobile Developer based in N
 
 :mailbox: Reach me out!
 
-
-
-
 <div style="text-align:center;">
 
   [![Chrome Browser](https://img.shields.io/badge/Browser-nandodev.net-green?style=flat&logo=google-chrome&logoColor=white)](https://nandodev.net)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,10 +27,17 @@ I'm Fernando González :rocket: a Full Stack Web and Mobile Developer based in N
 
 </div>
 
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently looking new job opportunities.
-- 🤔 I’m looking for help with Outstanding Video ideas.
+- 🤔 I’m looking for best practices on backend programming.
 - 📫 How to reach me: gonzalez89fer@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
@@ -64,7 +68,7 @@ I'm Fernando González :rocket: a Full Stack Web and Mobile Developer based in N
 - :email: gonzalez89fer@gmail.com
 
 
-
+</details>
 <!--
 **nandodev-net/nandodev-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
