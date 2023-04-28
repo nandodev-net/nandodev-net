@@ -10,6 +10,7 @@ I'm Fernando González a Full Stack Web and Mobile Developer based in New Jersey
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/welcome-base.gif" alt="description_of_gif" style="width:100%; height:auto; object-fit: cover; position:absolute;  border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);">
 </div>
 
+</br>
 
 :mailbox: Reach me out!
 
@@ -56,7 +57,6 @@ I'm Fernando González a Full Stack Web and Mobile Developer based in New Jersey
 </div>
 
 
-</br>
 </br>
 </br>
 
