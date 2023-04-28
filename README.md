@@ -61,7 +61,7 @@ I'm Islem Maboud a Full Stack Web and Mobile Developer based in New Jersey. I Sp
 </br>
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/nandodev-net/nandodev-net/assets/resume/nandodevResume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/nandodev-net/nandodev-net/blob/main/assets/resume/nandodevResume.pdf)
 - :email: gonzalez89fer@gmail.com
 
 <!--
