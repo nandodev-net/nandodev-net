@@ -10,6 +10,12 @@ I'm Fernando González :rocket: a Full Stack Web and Mobile Developer based in N
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/welcome-base.gif" alt="description_of_gif" style="width:100%; height:auto; object-fit: cover; position:absolute;  border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);">
 </div>
 
+<img src="assets/img/welcome-base.gif"
+     alt="description_of_gif"
+     style="width:100%; height:auto; object-fit:cover; border-radius:10px;
+            -webkit-mask-image: radial-gradient(circle, rgba(0,0,0,1) 70%, transparent 100%);
+            mask-image: radial-gradient(circle, rgba(0,0,0,1) 70%, transparent 100%);">
+
 </br>
 
 :mailbox: Reach me out!
