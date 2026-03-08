@@ -2,7 +2,14 @@
 
 ## Hi, I'm nandodev <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Fernando González :rocket: a Full Stack Web and Mobile Developer based in New Jersey USA. I Spend most of time coding outstanding projects or creating posts for my blog [nandodev.net](https://nandodev.net).
+I'm **Fernando González** 🚀  
+Senior **Full-Stack Developer** specializing in **Python, Django, and scalable backend systems**.
+
+I build **web platforms, APIs, and mobile applications**, and I enjoy designing systems that are clean, maintainable, and production-ready.
+
+Currently based in **New Jersey, USA**
+
+Most of my time is spent building software, experimenting with new technologies, and writing about development on **[nandodev.net](https://nandodev.net)**.
 
 <br/>
 
@@ -11,7 +18,7 @@ I'm Fernando González :rocket: a Full Stack Web and Mobile Developer based in N
 </div>
 
 
-:mailbox: Reach me out!
+:mailbox: Let's Connect!
 
 <div style="text-align:center;">
 
@@ -28,19 +35,18 @@ I'm Fernando González :rocket: a Full Stack Web and Mobile Developer based in N
 
 <details>
 <summary>
-  More stuff about me
+  More about me
 </summary>
 
 <br >
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently looking new job opportunities.
-- 🤔 I’m looking for best practices on backend programming.
-- 📫 How to reach me: gonzalez89fer@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
-
-
+- 🔭 Currently **open to new opportunities**
+- 🧠 Interested in **backend architecture, AI last tendencies and scalable systems**
+- 🛠️ Working mostly with **Python, Django, React and Flutter**
+- 📚 I enjoy learning about **software architecture, distributed systems and AI**
+- ⚡ Fun fact: I play games and go to the **gym very often**
 
 </br>
 
@@ -62,9 +68,26 @@ I'm Fernando González :rocket: a Full Stack Web and Mobile Developer based in N
 </br>
 </br>
 
-#### Bizness
-- :paperclip: [My Resume/CV](https://github.com/nandodev-net/nandodev-net/blob/main/assets/resume/nandodevResume.pdf)
-- :email: gonzalez89fer@gmail.com
+# ⭐ Featured Work
+
+Some things I enjoy building:
+
+- ⚙️ **Backend systems with Django & DRF**
+- 🔗 **API integrations and distributed services**
+- 📊 **Interactive data visualizations**
+- 📱 **Cross-platform mobile apps with Flutter**
+- 🧠 **AI and automation experiments**
+
+---
+
+# 📄 Professional
+
+- 📎 **[Resume / CV](https://github.com/nandodev-net/nandodev-net/blob/main/assets/resume/nandodevResume.pdf)**
+- 📧 **Email:** gonzalez89fer@gmail.com
+
+---
+
+⭐ From [nandodev](https://github.com/nandodev-net)
 
 
 </details>
